@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Cristian Camilo Castro👋</h1>
-<h3 align="center">Estudiante de Ingeniería de Software · Bogotá, Colombia 🌎</h3>
+<h3 align="center"> Estudiante de Ingeniería de Software · Bogotá, Colombia 🌎</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=500&lines=Estudiante+de+Ing.+de+Software+%7C+3er+semestre;Aprendiendo+Java+%2B+Spring+Boot;Explorando+Flutter+%2B+Dart;Construyendo+mi+camino+hacia+Fullstack+%F0%9F%9A%80" alt="Typing SVG" />
