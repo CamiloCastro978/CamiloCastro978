@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Cristian Camilo Castro Rubio 👋</h1>
+<h1 align="center">Hola, soy Cristian Camilo Castro👋</h1>
 <h3 align="center">Estudiante de Ingeniería de Software · Bogotá, Colombia 🌎</h3>
 
 <p align="center">
