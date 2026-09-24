@@ -5,7 +5,7 @@
 
 ## 👨‍💻 Sobre mí
 
-- 🎓 Estudiante de **Ingeniería de Software** — 3er semestre
+- 🎓 Estudiante de **Ingeniería de Software** — 4 semestre
 - 🌱 Actualmente aprendiendo **Java**, **Spring Boot** y **Flutter/Dart**
 - 🎯 Meta: convertirme en desarrollador **Fullstack**
 - 📍 Bogotá, Colombia
